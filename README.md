@@ -1,5 +1,3 @@
-# Best-Arch-Install
-This is the best arch installation documentation you've ever seen 
 # Arch linux install
 So basically, this is the best most simplified yet still complete documentation ever written. you would have to be a gill-less fish to strugle with this installation after following this guide. If you are confused and don't know what is going on, just keep reading. When in doubt: **do exactly as I say**. 
 ## Installing the iso
