@@ -92,8 +92,6 @@ Create the directory for the EFI partition and mount it
 # mount /dev/sda1 /mnt/boot
 ~~~
 
-create a new directory `/mnt/boot` with mkdir and mount sda1 there
-
 # Installation 
 
 ### **Install packages**
