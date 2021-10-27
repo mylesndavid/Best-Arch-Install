@@ -58,8 +58,6 @@ Next you will create the root partition "sda2" which houses your file system. Ho
 
 Lastly, create the third and final partition the "sda3" (or swap) partition and give it `1G` of storage and make it type `Linux Swap`
 
-Next, create a second partition that uses the remainder of the space on the disk.
-
 **Configure the swap file system**
 
 Create the swap system
