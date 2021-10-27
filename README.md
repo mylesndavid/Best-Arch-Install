@@ -253,7 +253,7 @@ Use pacman to install the networkmanager then use `systemsctl` to enable the pro
 ~~~
 
 
-After this you are pretty much done. Now all you need to do is `exit` the chroot and `reboot`. if everything is done properly, your vmv should boot into the GUI of KDE plasma 5. You should be able to log into the desktop with your username and password that you created
+After this you are pretty much done. Now all you need to do is `exit` the chroot and `reboot`. if everything is done properly, your vm should boot into the GUI of KDE plasma 5. You should be able to log into the desktop with your username and password that you created
 
 
 thx for reading, 
