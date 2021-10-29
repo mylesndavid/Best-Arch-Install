@@ -159,7 +159,7 @@ myhostname
 Use pacman to install the grub package and then install the boot loader onto the boot disk
 ~~~
 # pacman -S grub efibootmgr
-# grub-install --target=x86_64-efi --efidirectory=/boot --bootloader-id=GRUB
+# grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
 # grub-mkconfig -o /boot/grub/grub.cfg
 ~~~
 >Now your system should be functional. Next, we need to install a Desktop Enviroment to make the system viable for everyday useage.
